@@ -1,0 +1,170 @@
+﻿2026-05-12 · 当日热点 · 川习会 · 台湾军售
+
+5月12日的热点围绕即将举行的「川习会」展开。@Q_May_007 发帖说川普总统数小时后将登上空军一号（美国队即将全力以赴，在世界舞台上对抗我们最大的敌人），并在直播节目中以「惊讶、惊吓、不会有惊喜」概括对会谈的判断；另一帖梳理访问前的台湾军售争议（中共重申反对约110亿美元对台军售，川普称将与习近平讨论此事）。@Bannons_WarRoom 质问中美会谈是否该谈中共「释放生物武器」的赔偿，称中共「百分之百」反对川普与MAGA运动；@ericbolling 在节目中提出油价疑问——霍尔木兹海峡基本关闭，油价却未冲高，美国正在多输出原油而中国在消耗自身储备。郭文贵方面，@nizi17 通知本周与爸爸的见面因律师会议再次取消，但从每天通话听得出他心情和状态都非常好。@No3Mos 转发青藤的联盟汇报：战友自发到MDC为七哥庆生；青藤探望雁平，称其每天锻炼、坚持看新闻，班农带话「爱雁平」，雁平回应「我更爱你」；汇报还引述「川习会不会改变中共被灭的结局」「中美再次拥抱的时候，可能就是中共倒下的时候」。中共渗透议题上，@Q_May_007 与 @YoooRica 转述美国司法部消息：加州阿卡迪亚市前市长王爱琳认罪充当中共非法代理人，与前未婚夫经营假新闻网站执行北京指令。@NFSCSpeak 发文称近期伊朗制裁暴露了北京在德黑兰背后的资金渠道与武器供应链，呼应郭文贵多年前的警告。日本方向，@satsukikatayama 连发多帖：陪同贝森特美国财务长官表敬访问高市早苗总理（称气氛非常好，想传达的信息这两天都已传达），日美就汇率确认联携、牵制中国出口管制，并预告14日召开应对新型AI「ミトス」金融威胁的官民作业部会。此外 @Q_May_007 转述美司法部正考虑对福奇提起新的刑事案件；@warroom 多帖聚焦2026年中期选举的投票监督动员与5月26日德州对 Ken Paxton 的投票呼吁。
+
+
+══════════════════════════════
+热门帖子前 10
+══════════════════════════════
+
+1. @karpathy · X · 05-11 16:20
+   赞 18,996 · 转 1992 · 评 1002 · 阅 3,675,901
+   https://x.com/karpathy/status/2053872850101285137
+
+This works really well btw, at the end of your query ask your LLM to "structure your response as HTML", then view the generated file in your browser. I've also had some success asking the LLM to present its output as slideshows, etc.
+
+More generally, imo audio is the human-preferred input to AIs but vision (images/animations/video) is the preferred output from them. Around a ~third of our brains are a massively parallel processor dedicated to vision, it is the 10-lane superhighway of information into brain. As AI improves, I think we'll see a progression that takes advantage:
+
+1) raw text (hard/effortful to read)
+2) markdown (bold, italic, headings, tables, a bit easier on the eyes) <-- current default
+3) HTML (still procedural with underlying code, but a lot more flexibility on the graphics, layout, even interactivity) <-- early but forming new good default
+...4,5,6,...
+n) interactive neural videos/simulations
+
+Imo the extrapolation (though the technology doesn't exist just yet) ends in some kind of interactive videos generated directly by a diffusion neural net. Many open questions as to how exact/procedural "Software 1.0" artifacts (e.g. interactive simulations) may be woven together with neural artifacts (diffusion grids), but generally something in the direction of the recently viral https://t.co/z21CP5iQfu
+
+There are also improvements necessary and pending at the input. Audio nor text nor video alone are not enough, e.g. I feel a need to point/gesture to things on the screen, similar to all the things you would do with a person physically next to you and your computer screen.
+
+TLDR The input/output mind meld between humans and AIs is ongoing and there is a lot of work to do and significant progress to be made, way before jumping all the way into neuralink-esque BCIs and all that. For what's worth exploring at the current stage, hot tip try ask for HTML.
+
+──────────────────────────────
+
+2. @satsukikatayama · X · 05-12 07:55
+   赞 16,019 · 转 2131 · 评 285 · 阅 246,732
+   https://x.com/satsukikatayama/status/2054108242838757872
+
+たった今高市早苗総理へのベッセント米国財務長官の表敬訪問に、同席して参りました。非常に良い雰囲気で、日本として伝えたいメッセージ、この2日間で全て伝わったと思います。 https://t.co/gOdUKmnqAK
+
+──────────────────────────────
+
+3. @Bannons_WarRoom · X · 05-12 15:00
+   赞 6708 · 转 2394 · 评 91 · 阅 43,711
+   https://x.com/Bannons_WarRoom/status/2054215083287273761
+
+【中文 · 机器翻译】
+
+CAROLINE WREN：我们需要每一位爱国的德州人在5月26日出来投票支持肯·帕克斯顿，并带上五位朋友一起投票！
+
+@CarolineWren https://t.co/9EVP7deFEA
+
+【原文】
+
+CAROLINE WREN: We need every patriotic Texan on May 26 to get out and vote for Ken Paxton and bring five friends to do the same!
+
+@CarolineWren https://t.co/9EVP7deFEA
+
+──────────────────────────────
+
+4. @moteging · X · 05-12 11:36
+   赞 6060 · 转 309 · 评 71 · 阅 249,343
+   https://x.com/moteging/status/2054163792377020666
+
+【中文 · 机器翻译】
+
+@_SuzukiTakako_ 我认为你是一个可靠的「妹妹」。
+
+【原文】
+
+@_SuzukiTakako_ 私は頼りになる「妹分」だと思ってますよ。
+
+──────────────────────────────
+
+5. @AnthropicAI · X · 05-11 16:56
+   赞 3047 · 转 367 · 评 430 · 阅 449,774
+   https://x.com/AnthropicAI/status/2053881827396653207
+
+【中文 · 机器翻译】
+
+Claude的宪法现已推出有声书版本，由其两位作者Amanda Askell和Joe Carlsmith朗读。
+
+其中包括关于写作过程、塑造该文件的哲学以及随着模型能力提升可能如何演变的问答环节。
+
+在https://t.co/dKMfpeOblm收听 https://t.co/792RQ4sAxc
+
+【原文】
+
+Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmith.
+
+It includes a Q&amp;A on the writing process, the philosophies that shaped the document, and how it might change as models become more capable.
+
+Listen at https://t.co/dKMfpeOblm https://t.co/792RQ4sAxc
+
+──────────────────────────────
+
+6. @satsukikatayama · X · 05-12 03:07
+   赞 3579 · 转 601 · 评 130 · 阅 165,526
+   https://x.com/satsukikatayama/status/2054035774786724061
+
+日米、為替で連携確認　中国輸出規制けん制(共同通信)
+#Yahooニュース
+https://t.co/sgZPPbRBHJ
+
+──────────────────────────────
+
+7. @satsukikatayama · X · 05-12 12:25
+   赞 2351 · 转 412 · 评 296 · 阅 148,690
+   https://x.com/satsukikatayama/status/2054176016122392867
+
+【中文 · 机器翻译】
+
+新型AI「Mythos」对金融系统的威胁采取对策　14日召开官民合作工作组　片山幸子金融担当大臣(TBS NEWS DIG Powered by JNN)
+#Yahoo新闻
+https://t.co/USGie4S0t2
+
+【原文】
+
+新型AI「ミトス」金融システムへの脅威に対策を　14日に官民連携の作業部会　片山さつき金融担当大臣(TBS NEWS DIG Powered by JNN)
+#Yahooニュース
+https://t.co/USGie4S0t2
+
+──────────────────────────────
+
+8. @nizi17 · GETTR · 05-12 01:53
+   赞 1287 · 转 773 · 评 251
+   https://gettr.com/post/p3zzjtt5f37
+
+战友们好！明天因爸爸的几个重要律师会议时间和我们的见面时间又重合，这周和爸爸的见面还是取消。请知。
+
+虽然已经三周没见到爸爸，却在每天的电话中可以听出爸爸的心情和状态都非常好，勿念！
+
+最近生病率很高，请战友们一定多补充维生素多喝水💙
+
+一切美好已经开始🍀
+
+──────────────────────────────
+
+9. @satsukikatayama · X · 05-12 03:29
+   赞 1870 · 转 272 · 评 118 · 阅 72,679
+   https://x.com/satsukikatayama/status/2054041303755980819
+
+片山財務相、米ベッセント財務長官と会談　為替動向「日米間で連携確認」(日テレNEWS NNN)
+#Yahooニュース
+https://t.co/6wUzBG3QCF
+
+──────────────────────────────
+
+10. @Bannons_WarRoom · X · 05-12 14:25
+   赞 1386 · 转 383 · 评 36 · 阅 12,095
+   https://x.com/Bannons_WarRoom/status/2054206444254232755
+
+【中文 · 机器翻译】
+
+班农：是的。一支训练有素的志愿者大军将在今年11月出现在投票箱前。
+
+把这话记在心里。
+
+这是板上钉钉的事。
+
+你们再也别想在美国偷窃任何选举了。https://t.co/V7Stui39AJ
+
+【原文】
+
+BANNON: Yes. An army of trained volunteers WILL be at the ballot boxes this November.
+
+Take that to the bank.
+
+That's a dead certainty.
+
+You're not going to steal any more elections in the United States of America. https://t.co/V7Stui39AJ
+
+──────────────────────────────
